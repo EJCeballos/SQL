@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleDatabaseWalkthrough", "SampleDatabaseWalkthrough\SampleDatabaseWalkthrough.csproj", "{919E2A54-77B2-4DB5-8C3F-AFEC415BE1DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{919E2A54-77B2-4DB5-8C3F-AFEC415BE1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919E2A54-77B2-4DB5-8C3F-AFEC415BE1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919E2A54-77B2-4DB5-8C3F-AFEC415BE1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919E2A54-77B2-4DB5-8C3F-AFEC415BE1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DBB67C6-173B-456B-A60E-FC71A9E4D291}
+	EndGlobalSection
+EndGlobal
